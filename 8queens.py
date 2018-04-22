@@ -30,3 +30,4 @@ import random
 allq = list(queens(8))
 prettyp(random.choice(allq))
 
+#Should add main here
